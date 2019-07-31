@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "firstName": "Rupert",
+      "lastName": "Die Katze",
+      "company": "Kater Inc.",
+      "id": 1
+    },
+    {
+      "firstName": "Robin",
+      "lastName": "McNulty",
+      "company": "Kater Inc.",
+      "id": 2
+    },
+    {
+      "firstName": "Fülöp",
+      "lastName": "Snake",
+      "company": "Kater Inc.",
+      "id": 3
+    },
+    {
+      "firstName": "Tücsök",
+      "lastName": "",
+      "company": "Kater Inc",
+      "id": 4
+    },
+    {
+      "first": "Fritz",
+      "last": "Stefan",
+      "company": "ACME",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "I am hungry, give me food!",
+      "postId": 1
+    },
+    {
+      "postId": "1",
+      "body": "Not enough!",
+      "id": 2
+    },
+    {
+      "postId": "2",
+      "body": "Hungry",
+      "id": 3
+    },
+    {
+      "postId": "3",
+      "body": "Hey, I am here too!",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "test": {
+    "whatever": "Hello Cats"
+  }
+}
